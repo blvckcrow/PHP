@@ -1,0 +1,2 @@
+TX1: doc file text viet len man hinh
+TX2: ghi vao database, ghi tu database len man hinh
